@@ -20,11 +20,11 @@ SoDA's guide to putting on a technical talk or workshop!
 ## How to create a workshop
 
 ## How to present on a technical topic
-### Understand the technical topic your are presenting
-* Be prepared to answer question regarding the technology
-### Understand application of the technology
-### Know common pitfalls of the workshop
+
+* Be prepared to answer questions regarding the technology
+* Have a thorough understanding of the applications of this technology in the real world
 * Give the workshop to a friend before hand to locate any errors or potential stumbling blocks
+* Have all resources set up for the presentation beforehand (Github repo, external resources,etc)
 
 ## Examples
 
