@@ -11,6 +11,12 @@ SoDA's guide to putting on a technical talk or workshop!
 
 ## How to get your tech talk at a SoDA meeting
 
+1. Prepare your workshop / tech talk on the topic of your choosing
+2. Contact [SoDA's Lead Development Director](mailto:taforres@asu.edu?Subject=Lets-put-on-a-workshop!)
+3. Setup a day and time to host your event
+4. Practice, practice, practice
+5. Give your talk and kick some ass!
+
 ## How to create a workshop
 
 ## How to present on a technical topic
