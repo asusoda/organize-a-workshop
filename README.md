@@ -5,7 +5,7 @@ SoDA's guide to putting on a workshop!
 
 * About this guide
 * How to get your tech talk at a SoDA meeting
-* How to create workshop
+* How to create a workshop
 * How to present on a technical topic
 * Examples 
 
